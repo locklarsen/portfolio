@@ -1767,3 +1767,7 @@ body.light hr.separator {
 .yellow {
   color: #ffb400;
 }
+
+#presentation_protfolio {
+  text-align: justify;
+}
